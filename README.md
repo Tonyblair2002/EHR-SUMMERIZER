@@ -1,6 +1,6 @@
 # 🩺 AI Assistant for EHR Summarization
 
-## 📌 Project Overview
+##  Project Overview
 The **EHR Summarizer** is an AI-powered clinical documentation assistant that transforms raw Electronic Health Record (EHR) data into concise and meaningful medical notes. It extracts key insights like diagnoses, medications, allergies, and lab findings and generates summaries tailored for both:
 
 - Clinicians (professional & medical)
@@ -10,7 +10,7 @@ This system helps reduce documentation workload and improves how patient informa
 
 ---
 
-## 🧠 Key Features
+## Key Features
 - Converts EHR data into clinical summaries
 - Two viewing modes: Clinician & Patient-friendly
 - Specialty-aware summarization (Primary Care, Cardiology, etc.)
@@ -20,7 +20,7 @@ This system helps reduce documentation workload and improves how patient informa
 
 ---
 
-## 🏗 Technology Architecture
+##  Technology Architecture
 
 **Frontend:** Streamlit  
 **Backend:** FastAPI  
